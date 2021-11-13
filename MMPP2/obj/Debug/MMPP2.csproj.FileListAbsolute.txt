@@ -1,0 +1,11 @@
+C:\Users\SadLoneWolf\source\repos\MMPP2\MMPP2\bin\Debug\MMPP2.exe.config
+C:\Users\SadLoneWolf\source\repos\MMPP2\MMPP2\bin\Debug\MMPP2.exe
+C:\Users\SadLoneWolf\source\repos\MMPP2\MMPP2\bin\Debug\MMPP2.pdb
+C:\Users\SadLoneWolf\source\repos\MMPP2\MMPP2\obj\Debug\MMPP2.csproj.AssemblyReference.cache
+C:\Users\SadLoneWolf\source\repos\MMPP2\MMPP2\obj\Debug\MMPP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\SadLoneWolf\source\repos\MMPP2\MMPP2\obj\Debug\MMPP2.Properties.Resources.resources
+C:\Users\SadLoneWolf\source\repos\MMPP2\MMPP2\obj\Debug\MMPP2.csproj.GenerateResource.cache
+C:\Users\SadLoneWolf\source\repos\MMPP2\MMPP2\obj\Debug\MMPP2.csproj.CoreCompileInputs.cache
+C:\Users\SadLoneWolf\source\repos\MMPP2\MMPP2\obj\Debug\MMPP2.exe
+C:\Users\SadLoneWolf\source\repos\MMPP2\MMPP2\obj\Debug\MMPP2.pdb
+C:\Users\SadLoneWolf\source\repos\MMPP2\MMPP2\obj\Debug\MMPP2.Form1.resources
